@@ -1,0 +1,8 @@
+{
+  "name": "Simran Garments",
+  "description": "Premium Wholesale Fancy Garments in Saharanpur, offering trendy girls wear, kids fashion, frocks, jeans, and suits at wholesale prices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
