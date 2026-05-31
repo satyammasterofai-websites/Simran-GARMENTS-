@@ -16,7 +16,7 @@ export function About() {
           >
             <div className="aspect-[4/5] relative rounded-2xl overflow-hidden shadow-2xl">
               <Image 
-                src=https://drive.google.com/file/d/1XwBe-bvs5ZV5zpRTCTehLIDQuVACwt_H/view?usp=drivesdk"
+                src=https:"//drive.google.com/file/d/1XwBe-bvs5ZV5zpRTCTehLIDQuVACwt_H/view?usp=drivesdk"
                 alt="Simran Garments Store Overview"
                 fill
                 className="object-cover"
