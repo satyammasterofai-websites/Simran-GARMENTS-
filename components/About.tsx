@@ -16,8 +16,7 @@ export function About() {
           >
             <div className="aspect-[4/5] relative rounded-2xl overflow-hidden shadow-2xl">
               <Image 
-                "https://unsplash.com/photos/a-person-walks-beside-a-white-mosque-reflecting-in-water-8glQqowi0EU?utm_source=unsplash&utm_mediumreferral&utm_content=creditCopyText"
-
+                "https://unsplash.com/photos/a-person-walks-beside-a-white-mosque-reflecting-in-water-8glQqowi0EU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
                 alt="Simran Garments Store Overview"
                 fill
                 className="object-cover"
